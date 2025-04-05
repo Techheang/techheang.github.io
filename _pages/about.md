@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Mathematics at University College London (UCL), under the supervision of Professor Rod Halburd.
+I am currently a PhD student in Mathematics at University College London (UCL), under the supervision of [Professor Rod Halburd](https://www.ucl.ac.uk/~ucahrha/).
 
 About my research
 ======
