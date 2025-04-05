@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "All meromorphic solutions of a 3D Lotka-Volterra system: detecting partial integrability"
 collection: publications
 category: preprints
 permalink: /publication/2009-10-01-paper-title-number-1
