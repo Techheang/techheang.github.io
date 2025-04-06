@@ -6,4 +6,4 @@ permalink: /publication/2010-10-01-paper-title-number-2
 date: 2025-02-06
 ---
 
-The preprint is available on Arxiv: [https://arxiv.org/abs/2502.03955](https://arxiv.org/abs/2502.03955).
+The preprint is available at arXiv: [https://arxiv.org/abs/2502.03955](https://arxiv.org/abs/2502.03955).
