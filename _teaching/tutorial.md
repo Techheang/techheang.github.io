@@ -2,7 +2,7 @@
 title: "University College London"
 collection: teaching
 type: "Tutorials and Marking"
-permalink: /teaching/Tutorial
+permalink: /teaching/tutorial
 venue: "University College London, Department of Mathematics"
 date: 2021-09-27
 location: "Paris, France"
