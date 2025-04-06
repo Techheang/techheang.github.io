@@ -17,4 +17,6 @@ I use results from classical Nevanlinna theory to find meromorphic solutions of 
 
 I also investigate the Riemann surface of the inverse of a Koenig's function in Complex Dynamics, which can be used to expressed a particular solution of some (non-integrable) discrete equations.
 
+Email address: techheang.meng.21@ucl.ac.uk
+
 
