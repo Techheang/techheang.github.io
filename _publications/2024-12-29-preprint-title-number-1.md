@@ -1,7 +1,7 @@
 ---
 title: "All meromorphic solutions of a 3D Lotka-Volterra system: detecting partial integrability"
 collection: publications
-category: preprints
+category: manuscripts
 permalink: /publication/2024-12-29-preprint-title-number-1
 date: 2024-12-29
 ---
