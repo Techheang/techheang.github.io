@@ -1,5 +1,5 @@
 ---
-title: "On the extension of analytic solutions of first-order difference equations"
+title: "On the extension of analytic solutions of first-order difference equations (Preprint)"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-06-preprint-title-number-2
