@@ -1,7 +1,7 @@
 ---
 title: "On the extension of analytic solutions of first-order difference equations"
 collection: publications
-category: preprints
+category: manuscripts
 permalink: /publication/2025-02-06-preprint-title-number-2
 date: 2025-02-06
 ---
