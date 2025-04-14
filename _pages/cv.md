@@ -15,7 +15,7 @@ Education
 
 Work experience
 ======
-* 2021-Present: Teaching Assistant
+* 2021-Present: Teaching Assistant, PhD student
   * University College London
 
 Preprints and Publications
