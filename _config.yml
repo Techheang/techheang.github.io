@@ -8,7 +8,6 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
 title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Techheang Meng"
