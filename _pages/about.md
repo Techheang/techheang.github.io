@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Mathematics under a Teaching Assistant Fellowship at University College London (UCL), under the supervision of [Professor Rod Halburd](https://www.ucl.ac.uk/~ucahrha/).
+I am currently a [PhD student](https://profiles.ucl.ac.uk/86353-techheang-meng/about) in Mathematics under a Teaching Assistant Fellowship at University College London (UCL), under the supervision of [Professor Rod Halburd](https://www.ucl.ac.uk/~ucahrha/).
 
 About my research
 ======
