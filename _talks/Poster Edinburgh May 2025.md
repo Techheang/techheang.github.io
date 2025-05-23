@@ -1,1 +1,10 @@
-
+---
+title: "Singularity Structure of some Discrete Equation"
+collection: talks
+type: "Poster"
+permalink: /talks/Poster Edinburgh May 2025
+venue: "ICMS, Bayes Centre"
+date: 2025-05-12
+location: "Edinburgh, UK"
+---
+This is a poster presentation at the [Geometry and Integrability](https://www.icms.org.uk/geometryintegrability) workshop.
