@@ -2,7 +2,7 @@
 title: "Meromorphic solutions of a spinning top"
 collection: talks
 type: "Talk, Workshop"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/Talk Portsmouth June 2024
 venue: "University of Portsmouth"
 date: 2024-06-10
 location: "Portsmouth, UK"
