@@ -2,7 +2,7 @@
 title: "Forum for Pushing the Boundary"
 collection: teaching
 type: "Informal online teaching"
-permalink: /teaching/FPB
+permalink: /teaching/teaching-2-FPB
 venue: "Online"
 date: 2017-11-01
 location: "Online"
