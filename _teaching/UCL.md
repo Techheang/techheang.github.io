@@ -5,7 +5,7 @@ type: "Tutorials and Marking"
 permalink: /teaching/UCL
 venue: "University College London, Department of Mathematics"
 date: 2021-09-27
-location: "Paris, France"
+location: "London, UK"
 ---
 
 ## Tutorials
