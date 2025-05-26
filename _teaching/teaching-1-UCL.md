@@ -12,9 +12,10 @@ location: "London, UK"
 - 2024-2025: Analysis I, Analysis III
 - 2023-2024: Analysis I, Analysis III, Methods II
 - 2022-2023: Methods III
-- 2021-2023: Algebra III.
+- 2021-2022: Algebra III.
 
 ---
+
 ## Marking
 - 2024-2025: Analysis I
 - 2023-2024: Analysis II, Analysis III, Analysis IV
