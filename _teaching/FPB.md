@@ -9,6 +9,6 @@ location: "Online"
 ---
 
 ## Courses:
-I am a member of [https://www.facebook.com/fpbcambodia/](FPB) which organizes some reading groups learning and teaching some undergraduate maths courses to undergraduate students in Cambodia. Here are the informal lectures I have given: 
+I am a member of [FPB](https://www.facebook.com/fpbcambodia/) which organizes some reading groups learning and teaching some undergraduate maths courses to undergraduate students in Cambodia. Here are the informal lectures I have given: 
 
 - 2017-2024: Calculus, Linear Algebra, Basic Algebra, Real Analysis, Complex Analysis, Basic Probability, Differential Geometry.
