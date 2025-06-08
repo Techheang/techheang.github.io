@@ -1,8 +1,6 @@
 ---
 title: "Research Interest"
-redirect_from: 
-  - /research/
-  - /research.html
+permalink: /_research/
 ---
 ## Research
 My research interests lie in Complex Analysis and Integrable systems. 
