@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "Research Interest"
 redirect_from: 
   - /research/
