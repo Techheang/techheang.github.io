@@ -1,6 +1,10 @@
 ---
+permalink: /
 title: "Research Interest"
-collection: research
+author_profile: true
+redirect_from: 
+  - /research/
+  - /research.html
 ---
 ## Research
 My research interests lie in Complex Analysis and Integrable systems. 
