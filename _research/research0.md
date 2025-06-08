@@ -1,6 +1,6 @@
 ---
 title: "Research Interest"
-permalink: /_research/
+permalink: /research/
 ---
 ## Research
 My research interests lie in Complex Analysis and Integrable systems. 
