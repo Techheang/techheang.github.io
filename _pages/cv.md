@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, Royal University of Phnom Penh (RUPP), 2021
+* Ph.D. in Mathematics, University College London (UCL), 2021--Present
+* B.S. in Mathematics, Royal University of Phnom Penh (RUPP), 2017--2021
 
 Work experience
 ======
